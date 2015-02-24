@@ -1,6 +1,6 @@
 #SFX.js
 
-> ***IMPORTANT NOTICE*** This project is no longer maintained and the Firefox Media API or Webkit Audio API have undergone development. SFX.js has not been changed to accomodate any changes and may no longer work.
+> ***IMPORTANT NOTICE*** This project is no longer maintained. Because the Firefox Media API and Webkit Audio API have undergone development while SFX.js has not, it may no longer work.
 
 ##Sound Effects API
 
